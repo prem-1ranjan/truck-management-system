@@ -1,0 +1,9 @@
+CREATE DATABASE truckmgt;
+
+CREATE TABLE truck(
+id INT PRIMARY KEY AUTO_INCREMENT,
+name VARCHAR(50),
+model VARCHAR(50),
+capacity INT,
+driver_name VARCHAR(50)
+);
