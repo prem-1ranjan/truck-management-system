@@ -3,17 +3,17 @@
 A Java JDBC based backend application to manage truck records using MySQL database.
 
 ## Tech Stack
-- Java
-- JDBC
-- MySQL
-- Maven
+☕ Java  
+🔗 JDBC  
+🗄️ MySQL  
+⚙️ Maven
 
 ## Features
-- Add Truck
-- Get Truck By ID
-- Update Truck
-- Delete Truck
-- Get All Trucks
+• Add Truck 🚛
+• Get Truck By ID 🔍
+• Update Truck 🛠️
+• Delete Truck ❌
+• Get All Trucks 📋
 
 ## Database Table
 
