@@ -5,7 +5,7 @@ A Java JDBC based backend application to manage truck records using MySQL databa
 ## Tech Stack
 ☕ Java  
 🔗 JDBC  
-🗄️ MySQL  
+🗄️ MySQL 
 ⚙️ Maven
 
 ## Features
