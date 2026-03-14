@@ -15,16 +15,17 @@ A Java JDBC based backend application to manage truck records using MySQL databa
 - Delete Truck ❌
 - Get All Trucks 📋
 
-## Database Table
+### Database Table
 
+```sql
 CREATE TABLE truck(
-id INT PRIMARY KEY AUTO_INCREMENT,
-name VARCHAR(50),
-model VARCHAR(50),
-capacity INT,
-driver_name VARCHAR(50)
+ id INT PRIMARY KEY AUTO_INCREMENT,
+ name VARCHAR(50),
+ model VARCHAR(50),
+ capacity INT,
+ driver_name VARCHAR(50)
 );
-
+```
 ## Project Structure
 
 model → Entity classes  
